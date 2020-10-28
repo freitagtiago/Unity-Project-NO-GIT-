@@ -1,0 +1,2776 @@
+fileFormatVersion: 2
+guid: 79385bc3916f9a341824716ddfb9bc7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7713020488617769202
+    second: peixinho sprite sheet_0
+  - first:
+      213: 3629130095692926502
+    second: peixinho sprite sheet_1
+  - first:
+      213: -1659707074682665521
+    second: peixinho sprite sheet_2
+  - first:
+      213: 5992871864956622043
+    second: peixinho sprite sheet_3
+  - first:
+      213: -4104687061660225783
+    second: peixinho sprite sheet_4
+  - first:
+      213: -5800301832494945064
+    second: peixinho sprite sheet_5
+  - first:
+      213: 4357555702355605701
+    second: peixinho sprite sheet_6
+  - first:
+      213: 6756996197793259597
+    second: peixinho sprite sheet_7
+  - first:
+      213: 1220758132890051238
+    second: peixinho sprite sheet_8
+  - first:
+      213: 3656490160850034115
+    second: peixinho sprite sheet_9
+  - first:
+      213: -7291723825290887674
+    second: peixinho sprite sheet_10
+  - first:
+      213: -1394955804494404463
+    second: peixinho sprite sheet_11
+  - first:
+      213: -5876222939259609139
+    second: peixinho sprite sheet_12
+  - first:
+      213: -1892670081108959937
+    second: peixinho sprite sheet_13
+  - first:
+      213: 4561021556092955672
+    second: peixinho sprite sheet_14
+  - first:
+      213: 2329553452450091840
+    second: peixinho sprite sheet_15
+  - first:
+      213: 834231444986292865
+    second: peixinho sprite sheet_16
+  - first:
+      213: -3284876980149451334
+    second: peixinho sprite sheet_17
+  - first:
+      213: 8868724537334574386
+    second: peixinho sprite sheet_18
+  - first:
+      213: -1537164761139380407
+    second: peixinho sprite sheet_19
+  - first:
+      213: 4416306421711784226
+    second: peixinho sprite sheet_20
+  - first:
+      213: 3918635251835389769
+    second: peixinho sprite sheet_21
+  - first:
+      213: -5095685076282668263
+    second: peixinho sprite sheet_22
+  - first:
+      213: -2648235809093930152
+    second: peixinho sprite sheet_23
+  - first:
+      213: -7919673354899328953
+    second: peixinho sprite sheet_24
+  - first:
+      213: 3845637702498815610
+    second: peixinho sprite sheet_25
+  - first:
+      213: 2766660454348587464
+    second: peixinho sprite sheet_26
+  - first:
+      213: -1125727973914139405
+    second: peixinho sprite sheet_27
+  - first:
+      213: -4220451215290665043
+    second: peixinho sprite sheet_28
+  - first:
+      213: 6625238626899039796
+    second: peixinho sprite sheet_29
+  - first:
+      213: 2790094158907836518
+    second: peixinho sprite sheet_30
+  - first:
+      213: 3744722489216333865
+    second: peixinho sprite sheet_31
+  - first:
+      213: -7736843216954949999
+    second: peixinho sprite sheet_32
+  - first:
+      213: 7406937703968161224
+    second: peixinho sprite sheet_33
+  - first:
+      213: -935485848510081408
+    second: peixinho sprite sheet_34
+  - first:
+      213: -8067294685523148324
+    second: peixinho sprite sheet_35
+  - first:
+      213: -1435623056683081141
+    second: peixinho sprite sheet_36
+  - first:
+      213: -2777159661655307937
+    second: peixinho sprite sheet_37
+  - first:
+      213: 1212675526143198492
+    second: peixinho sprite sheet_38
+  - first:
+      213: -470421914739619558
+    second: peixinho sprite sheet_39
+  - first:
+      213: 1099826457455275740
+    second: peixinho sprite sheet_40
+  - first:
+      213: 2613519718256988669
+    second: peixinho sprite sheet_41
+  - first:
+      213: -8043835030519848353
+    second: peixinho sprite sheet_42
+  - first:
+      213: -2693127099544948039
+    second: peixinho sprite sheet_43
+  - first:
+      213: -2766039319543423660
+    second: peixinho sprite sheet_44
+  - first:
+      213: -135705102783189220
+    second: peixinho sprite sheet_45
+  - first:
+      213: -2863280023371414530
+    second: peixinho sprite sheet_46
+  - first:
+      213: -3302384876621664604
+    second: peixinho sprite sheet_47
+  - first:
+      213: 7720037049967780534
+    second: peixinho sprite sheet_48
+  - first:
+      213: 775505565879998682
+    second: peixinho sprite sheet_49
+  - first:
+      213: -400089915562021979
+    second: peixinho sprite sheet_50
+  - first:
+      213: -1215537978819103779
+    second: peixinho sprite sheet_51
+  - first:
+      213: -1797598161253504496
+    second: peixinho sprite sheet_52
+  - first:
+      213: -7340530496269515051
+    second: peixinho sprite sheet_53
+  - first:
+      213: -6073304719687075458
+    second: peixinho sprite sheet_54
+  - first:
+      213: -3892143851025459941
+    second: peixinho sprite sheet_55
+  - first:
+      213: 4753436724971316389
+    second: peixinho sprite sheet_56
+  - first:
+      213: 5880664955843127994
+    second: peixinho sprite sheet_57
+  - first:
+      213: 8756188229513726872
+    second: peixinho sprite sheet_58
+  - first:
+      213: -339808109518890999
+    second: peixinho sprite sheet_59
+  - first:
+      213: 1402196926843672447
+    second: peixinho sprite sheet_60
+  - first:
+      213: 583882225274938845
+    second: peixinho sprite sheet_61
+  - first:
+      213: -3075683265430461434
+    second: peixinho sprite sheet_62
+  - first:
+      213: 5797617074991229574
+    second: peixinho sprite sheet_63
+  - first:
+      213: -3919227884656070830
+    second: peixinho sprite sheet_64
+  - first:
+      213: -6683326152837457223
+    second: peixinho sprite sheet_65
+  - first:
+      213: 9057427756827462065
+    second: peixinho sprite sheet_66
+  - first:
+      213: -2012381898685878087
+    second: peixinho sprite sheet_67
+  - first:
+      213: -6242877239738668775
+    second: peixinho sprite sheet_68
+  - first:
+      213: -4603380091436354528
+    second: peixinho sprite sheet_69
+  - first:
+      213: -1846175024641023473
+    second: peixinho sprite sheet_70
+  - first:
+      213: 4880502796358952066
+    second: peixinho sprite sheet_71
+  - first:
+      213: -8957691621744849535
+    second: peixinho sprite sheet_72
+  - first:
+      213: -6542260548771546992
+    second: peixinho sprite sheet_73
+  - first:
+      213: 6441632448688984353
+    second: peixinho sprite sheet_74
+  - first:
+      213: -2279627286387588715
+    second: peixinho sprite sheet_75
+  - first:
+      213: 6436106543897305242
+    second: peixinho sprite sheet_76
+  - first:
+      213: -598657788909817348
+    second: peixinho sprite sheet_77
+  - first:
+      213: -3503028987382844303
+    second: peixinho sprite sheet_78
+  - first:
+      213: -4421598124047507217
+    second: peixinho sprite sheet_79
+  - first:
+      213: 1020296924604504902
+    second: peixinho sprite sheet_80
+  - first:
+      213: 7251457056308632981
+    second: peixinho sprite sheet_81
+  - first:
+      213: -898499835481148623
+    second: peixinho sprite sheet_82
+  - first:
+      213: -2366346220898391775
+    second: peixinho sprite sheet_83
+  - first:
+      213: 6101692240104616535
+    second: peixinho sprite sheet_84
+  - first:
+      213: 873960631189575080
+    second: peixinho sprite sheet_85
+  - first:
+      213: -4662064754893593078
+    second: peixinho sprite sheet_86
+  - first:
+      213: -8361823231271620448
+    second: peixinho sprite sheet_87
+  - first:
+      213: 2100094591232275918
+    second: peixinho sprite sheet_88
+  - first:
+      213: -8876098681957866281
+    second: peixinho sprite sheet_89
+  - first:
+      213: -1107306631040942519
+    second: peixinho sprite sheet_90
+  - first:
+      213: 3407427010713947905
+    second: peixinho sprite sheet_91
+  - first:
+      213: 641639294215188078
+    second: peixinho sprite sheet_92
+  - first:
+      213: 6665885398755771906
+    second: peixinho sprite sheet_93
+  - first:
+      213: 7644658433281960356
+    second: peixinho sprite sheet_94
+  - first:
+      213: -6508932024646654175
+    second: peixinho sprite sheet_95
+  - first:
+      213: -3559630579099147617
+    second: peixinho sprite sheet_96
+  - first:
+      213: -837699604424094791
+    second: peixinho sprite sheet_97
+  - first:
+      213: 358934916814634263
+    second: peixinho sprite sheet_98
+  - first:
+      213: -1069825177641455797
+    second: peixinho sprite sheet_99
+  - first:
+      213: 5468713908956038890
+    second: peixinho sprite sheet_100
+  - first:
+      213: -8736126800087942647
+    second: peixinho sprite sheet_101
+  - first:
+      213: -4473776233081128405
+    second: peixinho sprite sheet_102
+  - first:
+      213: -1888743021450697907
+    second: peixinho sprite sheet_103
+  - first:
+      213: -4096378250869254986
+    second: peixinho sprite sheet_104
+  - first:
+      213: 8670612866041084016
+    second: peixinho sprite sheet_105
+  - first:
+      213: -1431349310526284785
+    second: peixinho sprite sheet_106
+  - first:
+      213: 4512620450810321841
+    second: peixinho sprite sheet_107
+  - first:
+      213: -3211096317971182161
+    second: peixinho sprite sheet_108
+  - first:
+      213: -7499266208178526199
+    second: peixinho sprite sheet_109
+  - first:
+      213: -580682007341394662
+    second: peixinho sprite sheet_110
+  - first:
+      213: 545455823361524837
+    second: peixinho sprite sheet_111
+  - first:
+      213: -4561093331466283170
+    second: peixinho sprite sheet_112
+  - first:
+      213: 4246902693941517551
+    second: peixinho sprite sheet_113
+  - first:
+      213: 3906826139910779977
+    second: peixinho sprite sheet_114
+  - first:
+      213: -2854504625094750201
+    second: peixinho sprite sheet_115
+  - first:
+      213: 6025554201780514618
+    second: peixinho sprite sheet_116
+  - first:
+      213: -94681364975191125
+    second: peixinho sprite sheet_117
+  - first:
+      213: 4572659415436921093
+    second: peixinho sprite sheet_118
+  - first:
+      213: 217719385918707556
+    second: peixinho sprite sheet_119
+  - first:
+      213: 1935413097869183936
+    second: peixinho sprite sheet_120
+  - first:
+      213: 3842512056308725064
+    second: peixinho sprite sheet_121
+  - first:
+      213: 330823452808223278
+    second: peixinho sprite sheet_122
+  - first:
+      213: -5661383892750260051
+    second: peixinho sprite sheet_123
+  - first:
+      213: 8023656096712756039
+    second: peixinho sprite sheet_124
+  - first:
+      213: -6612169068562381604
+    second: peixinho sprite sheet_125
+  - first:
+      213: -8947938330667022126
+    second: peixinho sprite sheet_126
+  - first:
+      213: -9082609329154388997
+    second: peixinho sprite sheet_127
+  - first:
+      213: 7835538264623783792
+    second: peixinho sprite sheet_128
+  - first:
+      213: 5770207116130300356
+    second: peixinho sprite sheet_129
+  - first:
+      213: 8052257287996289034
+    second: peixinho sprite sheet_130
+  - first:
+      213: -5360895577652993658
+    second: peixinho sprite sheet_131
+  - first:
+      213: 4520713736326502980
+    second: peixinho sprite sheet_132
+  - first:
+      213: 2113515332471936992
+    second: peixinho sprite sheet_133
+  - first:
+      213: -2951557945829338145
+    second: peixinho sprite sheet_134
+  - first:
+      213: -3389859699333008169
+    second: peixinho sprite sheet_135
+  - first:
+      213: 4712874314354793868
+    second: peixinho sprite sheet_136
+  - first:
+      213: 3002046580412512470
+    second: peixinho sprite sheet_137
+  - first:
+      213: 4585655365412006584
+    second: peixinho sprite sheet_138
+  - first:
+      213: -837589560360302169
+    second: peixinho sprite sheet_139
+  - first:
+      213: 3531256630831178495
+    second: peixinho sprite sheet_140
+  - first:
+      213: 1034655855408429618
+    second: peixinho sprite sheet_141
+  - first:
+      213: -4514561172970439610
+    second: peixinho sprite sheet_142
+  - first:
+      213: -2364717639834990001
+    second: peixinho sprite sheet_143
+  - first:
+      213: -6968852670248797678
+    second: peixinho sprite sheet_144
+  - first:
+      213: -7102447362031456437
+    second: peixinho sprite sheet_145
+  - first:
+      213: 2142516796995619874
+    second: peixinho sprite sheet_146
+  - first:
+      213: -4367254974177416358
+    second: peixinho sprite sheet_147
+  - first:
+      213: -2507705355231882955
+    second: peixinho sprite sheet_148
+  - first:
+      213: 671650787937518434
+    second: peixinho sprite sheet_149
+  - first:
+      213: -4520209307001211278
+    second: peixinho sprite sheet_150
+  - first:
+      213: 5451055719799729580
+    second: peixinho sprite sheet_151
+  - first:
+      213: -696140542067892484
+    second: peixinho sprite sheet_152
+  - first:
+      213: -4404194907810980687
+    second: peixinho sprite sheet_153
+  - first:
+      213: -942918115445474235
+    second: peixinho sprite sheet_154
+  - first:
+      213: -7073298980959225716
+    second: peixinho sprite sheet_155
+  - first:
+      213: 5280021612485489879
+    second: peixinho sprite sheet_156
+  - first:
+      213: -5291374637861050225
+    second: peixinho sprite sheet_157
+  - first:
+      213: -2232059432167089571
+    second: peixinho sprite sheet_158
+  - first:
+      213: -5356525209400511416
+    second: peixinho sprite sheet_159
+  - first:
+      213: -242772286911701611
+    second: peixinho sprite sheet_160
+  - first:
+      213: -8650018286134230027
+    second: peixinho sprite sheet_161
+  - first:
+      213: -3559213950424987954
+    second: peixinho sprite sheet_162
+  - first:
+      213: -3251794194068252575
+    second: peixinho sprite sheet_163
+  - first:
+      213: 3772781470305523864
+    second: peixinho sprite sheet_164
+  - first:
+      213: 7241806834735512536
+    second: peixinho sprite sheet_165
+  - first:
+      213: 4037378255268896594
+    second: peixinho sprite sheet_166
+  - first:
+      213: 7332260694804932696
+    second: peixinho sprite sheet_167
+  - first:
+      213: -2276576193325032850
+    second: peixinho sprite sheet_168
+  - first:
+      213: -7378112324527718686
+    second: peixinho sprite sheet_169
+  - first:
+      213: -2912290165569902913
+    second: peixinho sprite sheet_170
+  - first:
+      213: -8407443374858152791
+    second: peixinho sprite sheet_171
+  - first:
+      213: -6298707316664101579
+    second: peixinho sprite sheet_172
+  - first:
+      213: -6673589315533425942
+    second: peixinho sprite sheet_173
+  - first:
+      213: -7348083056188162400
+    second: peixinho sprite sheet_174
+  - first:
+      213: -4260007405860512664
+    second: peixinho sprite sheet_175
+  - first:
+      213: -964019354791507237
+    second: peixinho sprite sheet_176
+  - first:
+      213: 4054026008995140284
+    second: peixinho sprite sheet_177
+  - first:
+      213: 4277758641563093071
+    second: peixinho sprite sheet_178
+  - first:
+      213: -4762482273792807203
+    second: peixinho sprite sheet_179
+  - first:
+      213: -2633879099654388620
+    second: peixinho sprite sheet_180
+  - first:
+      213: -4873488812260776403
+    second: peixinho sprite sheet_181
+  - first:
+      213: 9150331198100861678
+    second: peixinho sprite sheet_182
+  - first:
+      213: -1301035536414787967
+    second: peixinho sprite sheet_183
+  - first:
+      213: 6805923383705930269
+    second: peixinho sprite sheet_184
+  - first:
+      213: -1820379606528840413
+    second: peixinho sprite sheet_185
+  - first:
+      213: 166764386064447238
+    second: peixinho sprite sheet_186
+  - first:
+      213: 1856500461195174227
+    second: peixinho sprite sheet_187
+  - first:
+      213: -1207624746209196594
+    second: peixinho sprite sheet_188
+  - first:
+      213: 6971164249762302887
+    second: peixinho sprite sheet_189
+  - first:
+      213: -7673248627646094106
+    second: peixinho sprite sheet_190
+  - first:
+      213: 3257399295323117427
+    second: peixinho sprite sheet_191
+  - first:
+      213: -2798306352420436353
+    second: peixinho sprite sheet_192
+  - first:
+      213: -6845558115267104364
+    second: peixinho sprite sheet_193
+  - first:
+      213: -4121151954069511942
+    second: peixinho sprite sheet_194
+  - first:
+      213: 7073050196005601172
+    second: peixinho sprite sheet_195
+  - first:
+      213: 1590659822542062365
+    second: peixinho sprite sheet_196
+  - first:
+      213: -5858962375802210188
+    second: peixinho sprite sheet_197
+  - first:
+      213: 5049670517472493702
+    second: peixinho sprite sheet_198
+  - first:
+      213: -3866668122249436142
+    second: peixinho sprite sheet_199
+  - first:
+      213: 8148377903172802486
+    second: peixinho sprite sheet_200
+  - first:
+      213: -2359565178669101357
+    second: peixinho sprite sheet_201
+  - first:
+      213: -4646147647411716397
+    second: peixinho sprite sheet_202
+  - first:
+      213: 7760371011956835297
+    second: peixinho sprite sheet_203
+  - first:
+      213: 3174001889581201341
+    second: peixinho sprite sheet_204
+  - first:
+      213: -7189767311608397747
+    second: peixinho sprite sheet_205
+  - first:
+      213: 4680289206983224408
+    second: peixinho sprite sheet_206
+  - first:
+      213: 3860780392354745380
+    second: peixinho sprite sheet_207
+  - first:
+      213: -8993962015004489055
+    second: peixinho sprite sheet_208
+  - first:
+      213: 3690457594686141821
+    second: peixinho sprite sheet_209
+  - first:
+      213: 6162547451841500867
+    second: peixinho sprite sheet_210
+  - first:
+      213: 1175726755684157851
+    second: peixinho sprite sheet_211
+  - first:
+      213: -1661753574477498628
+    second: peixinho sprite sheet_212
+  - first:
+      213: -8253561860907576276
+    second: peixinho sprite sheet_213
+  - first:
+      213: 8783858854505281283
+    second: peixinho sprite sheet_214
+  - first:
+      213: -2192258424905981101
+    second: peixinho sprite sheet_215
+  - first:
+      213: -4644583436569495208
+    second: peixinho sprite sheet_216
+  - first:
+      213: -3631130366993213905
+    second: peixinho sprite sheet_217
+  - first:
+      213: 3387954159579218752
+    second: peixinho sprite sheet_218
+  - first:
+      213: 6057104498129437166
+    second: peixinho sprite sheet_219
+  - first:
+      213: -8412146474058990922
+    second: peixinho sprite sheet_220
+  - first:
+      213: -6785627207565232827
+    second: peixinho sprite sheet_221
+  - first:
+      213: -8462643019455636810
+    second: peixinho sprite sheet_222
+  - first:
+      213: 8624568180399546965
+    second: peixinho sprite sheet_223
+  - first:
+      213: 7792474629290960197
+    second: peixinho sprite sheet_224
+  - first:
+      213: 4926605022739360835
+    second: peixinho sprite sheet_225
+  - first:
+      213: -4798513636483993511
+    second: peixinho sprite sheet_226
+  - first:
+      213: 2583299660834003668
+    second: peixinho sprite sheet_227
+  - first:
+      213: -4615953483357938130
+    second: peixinho sprite sheet_228
+  - first:
+      213: 3930272124268845305
+    second: peixinho sprite sheet_229
+  - first:
+      213: -2360279326712031254
+    second: peixinho sprite sheet_230
+  - first:
+      213: -5078127326712879793
+    second: peixinho sprite sheet_231
+  - first:
+      213: 2183854692532987697
+    second: peixinho sprite sheet_232
+  - first:
+      213: -8836224530136336510
+    second: peixinho sprite sheet_233
+  - first:
+      213: 6468282039459244730
+    second: peixinho sprite sheet_234
+  - first:
+      213: -4608917754833255859
+    second: peixinho sprite sheet_235
+  - first:
+      213: -4330145466202562310
+    second: peixinho sprite sheet_236
+  - first:
+      213: 4829943243902936079
+    second: peixinho sprite sheet_237
+  - first:
+      213: 8569191013048928896
+    second: peixinho sprite sheet_238
+  - first:
+      213: -6202443795446689524
+    second: peixinho sprite sheet_239
+  - first:
+      213: 6012207645273759872
+    second: peixinho sprite sheet_240
+  - first:
+      213: -7786544809944971934
+    second: peixinho sprite sheet_241
+  - first:
+      213: 8847833597563387422
+    second: peixinho sprite sheet_242
+  - first:
+      213: -1050629417725512891
+    second: peixinho sprite sheet_243
+  - first:
+      213: 5115841175428478761
+    second: peixinho sprite sheet_244
+  - first:
+      213: -2699599477293818233
+    second: peixinho sprite sheet_245
+  - first:
+      213: 6529239719222706745
+    second: peixinho sprite sheet_246
+  - first:
+      213: 4473608154698544489
+    second: peixinho sprite sheet_247
+  - first:
+      213: -3676018467013384319
+    second: peixinho sprite sheet_248
+  - first:
+      213: -299339507855051822
+    second: peixinho sprite sheet_249
+  - first:
+      213: 4562350012068910610
+    second: peixinho sprite sheet_250
+  - first:
+      213: 2153134683044198878
+    second: peixinho sprite sheet_251
+  - first:
+      213: -510795953554987977
+    second: peixinho sprite sheet_252
+  - first:
+      213: 3318432482979513269
+    second: peixinho sprite sheet_253
+  - first:
+      213: -1143228055218304383
+    second: peixinho sprite sheet_254
+  - first:
+      213: 2831659711447686817
+    second: peixinho sprite sheet_255
+  - first:
+      213: 718026491255983820
+    second: peixinho sprite sheet_256
+  - first:
+      213: 5056144028373301095
+    second: peixinho sprite sheet_257
+  - first:
+      213: 4254663783383972565
+    second: peixinho sprite sheet_258
+  - first:
+      213: -6379959450860000553
+    second: peixinho sprite sheet_259
+  - first:
+      213: 541963471363552223
+    second: peixinho sprite sheet_260
+  - first:
+      213: 5752185698164613547
+    second: peixinho sprite sheet_261
+  - first:
+      213: -5634490401450627699
+    second: peixinho sprite sheet_262
+  - first:
+      213: -3095072091742320668
+    second: peixinho sprite sheet_263
+  - first:
+      213: 4553309050746384575
+    second: peixinho sprite sheet_264
+  - first:
+      213: -3300590321730661245
+    second: peixinho sprite sheet_265
+  - first:
+      213: -2688708989930761652
+    second: peixinho sprite sheet_266
+  - first:
+      213: -7287706580741205845
+    second: peixinho sprite sheet_267
+  - first:
+      213: -2783931929359931531
+    second: peixinho sprite sheet_268
+  - first:
+      213: -8178125969114171726
+    second: peixinho sprite sheet_269
+  - first:
+      213: 4968649488389425025
+    second: peixinho sprite sheet_270
+  - first:
+      213: -1887654083694508775
+    second: peixinho sprite sheet_271
+  - first:
+      213: -2063813338314383097
+    second: peixinho sprite sheet_272
+  - first:
+      213: 7088866837807743684
+    second: peixinho sprite sheet_273
+  - first:
+      213: 2828157008631252047
+    second: peixinho sprite sheet_274
+  - first:
+      213: -4535897790169168415
+    second: peixinho sprite sheet_275
+  - first:
+      213: 7909527708658775670
+    second: peixinho sprite sheet_276
+  - first:
+      213: 4158190965010237695
+    second: peixinho sprite sheet_277
+  - first:
+      213: 7987888403366976747
+    second: peixinho sprite sheet_278
+  - first:
+      213: -1246598776206039773
+    second: peixinho sprite sheet_279
+  - first:
+      213: -1034704418099759774
+    second: peixinho sprite sheet_280
+  - first:
+      213: 2760934722961121820
+    second: peixinho sprite sheet_281
+  - first:
+      213: -1806409776301998718
+    second: peixinho sprite sheet_282
+  - first:
+      213: -7442841076116403041
+    second: peixinho sprite sheet_283
+  - first:
+      213: -8060896032897159017
+    second: peixinho sprite sheet_284
+  - first:
+      213: 8106598758409043906
+    second: peixinho sprite sheet_285
+  - first:
+      213: -8145524604343617460
+    second: peixinho sprite sheet_286
+  - first:
+      213: -278814532077569743
+    second: peixinho sprite sheet_287
+  - first:
+      213: 6230997410568452238
+    second: peixinho sprite sheet_288
+  - first:
+      213: -3836028177226874795
+    second: peixinho sprite sheet_289
+  - first:
+      213: -2304794475278721976
+    second: peixinho sprite sheet_290
+  - first:
+      213: -1824775705834707364
+    second: peixinho sprite sheet_291
+  - first:
+      213: -6491455208545179346
+    second: peixinho sprite sheet_292
+  - first:
+      213: 7895625459934454636
+    second: peixinho sprite sheet_293
+  - first:
+      213: 5441053514436944898
+    second: peixinho sprite sheet_294
+  - first:
+      213: 1695649685399190297
+    second: peixinho sprite sheet_295
+  - first:
+      213: -5039612882344398225
+    second: peixinho sprite sheet_296
+  - first:
+      213: -6183200885833180842
+    second: peixinho sprite sheet_297
+  - first:
+      213: -2688018479348949589
+    second: peixinho sprite sheet_298
+  - first:
+      213: 2046158867483358171
+    second: peixinho sprite sheet_299
+  - first:
+      213: -6633131684862334183
+    second: peixinho sprite sheet_300
+  - first:
+      213: 2497929802351314534
+    second: peixinho sprite sheet_301
+  - first:
+      213: 4595923743164233273
+    second: peixinho sprite sheet_302
+  - first:
+      213: 4689763053195531081
+    second: peixinho sprite sheet_303
+  - first:
+      213: 2183592273413277510
+    second: peixinho sprite sheet_304
+  - first:
+      213: -8251767473566486984
+    second: peixinho sprite sheet_305
+  - first:
+      213: 4609029948952142898
+    second: peixinho sprite sheet_306
+  - first:
+      213: 539517601169027414
+    second: peixinho sprite sheet_307
+  - first:
+      213: -4980043834228388298
+    second: peixinho sprite sheet_308
+  - first:
+      213: -2834626517330395488
+    second: peixinho sprite sheet_309
+  - first:
+      213: 7594362142931436521
+    second: peixinho sprite sheet_310
+  - first:
+      213: 647602374256155962
+    second: peixinho sprite sheet_311
+  - first:
+      213: 1746621678480123377
+    second: peixinho sprite sheet_312
+  - first:
+      213: 7682341956260717650
+    second: peixinho sprite sheet_313
+  - first:
+      213: -3353687343879958732
+    second: peixinho sprite sheet_314
+  - first:
+      213: 4078479389925652013
+    second: peixinho sprite sheet_315
+  - first:
+      213: -8323384723081048066
+    second: peixinho sprite sheet_316
+  - first:
+      213: -7939622045029877244
+    second: peixinho sprite sheet_317
+  - first:
+      213: -591320952545638443
+    second: peixinho sprite sheet_318
+  - first:
+      213: -6887367933685004528
+    second: peixinho sprite sheet_319
+  - first:
+      213: -2834308336084696157
+    second: peixinho sprite sheet_320
+  - first:
+      213: 420744024932331864
+    second: peixinho sprite sheet_321
+  - first:
+      213: -2983319103674794917
+    second: peixinho sprite sheet_322
+  - first:
+      213: 7134597332483431377
+    second: peixinho sprite sheet_323
+  - first:
+      213: -5735852992640714631
+    second: peixinho sprite sheet_324
+  - first:
+      213: -913660900436898073
+    second: peixinho sprite sheet_325
+  - first:
+      213: -4974444845012840444
+    second: peixinho sprite sheet_326
+  - first:
+      213: -5426126443292018581
+    second: peixinho sprite sheet_327
+  - first:
+      213: 2070285265714777975
+    second: peixinho sprite sheet_328
+  - first:
+      213: 7998665723444841807
+    second: peixinho sprite sheet_329
+  - first:
+      213: -912791380201570621
+    second: peixinho sprite sheet_330
+  - first:
+      213: -3766491642293640724
+    second: peixinho sprite sheet_331
+  - first:
+      213: -985443954597263558
+    second: peixinho sprite sheet_332
+  - first:
+      213: 4184997451833695518
+    second: peixinho sprite sheet_333
+  - first:
+      213: -5589639459908417551
+    second: peixinho sprite sheet_334
+  - first:
+      213: 5745015440903232381
+    second: peixinho sprite sheet_335
+  - first:
+      213: -3956803811045414069
+    second: peixinho sprite sheet_336
+  - first:
+      213: 1745782017636337505
+    second: peixinho sprite sheet_337
+  - first:
+      213: 2745303514243198376
+    second: peixinho sprite sheet_338
+  - first:
+      213: -2075244757816341588
+    second: peixinho sprite sheet_339
+  - first:
+      213: 231629019086152336
+    second: peixinho sprite sheet_340
+  - first:
+      213: 2790850894621150567
+    second: peixinho sprite sheet_341
+  - first:
+      213: 1758107886531370819
+    second: peixinho sprite sheet_342
+  - first:
+      213: -4813576313800351281
+    second: peixinho sprite sheet_343
+  - first:
+      213: 7535145001803934437
+    second: peixinho sprite sheet_344
+  - first:
+      213: -7482115697638671876
+    second: peixinho sprite sheet_345
+  - first:
+      213: -6278326512357058340
+    second: peixinho sprite sheet_346
+  - first:
+      213: -8964460946974513653
+    second: peixinho sprite sheet_347
+  - first:
+      213: 5826756233358079389
+    second: peixinho sprite sheet_348
+  - first:
+      213: -6555381206820662380
+    second: peixinho sprite sheet_349
+  - first:
+      213: -2956270121854232536
+    second: peixinho sprite sheet_350
+  - first:
+      213: -8551033253868191077
+    second: peixinho sprite sheet_351
+  - first:
+      213: -8420101704777696261
+    second: peixinho sprite sheet_352
+  - first:
+      213: 436053804952670776
+    second: peixinho sprite sheet_353
+  - first:
+      213: -1702720235061156230
+    second: peixinho sprite sheet_354
+  - first:
+      213: 2705036266349344851
+    second: peixinho sprite sheet_355
+  - first:
+      213: 1007186889979920214
+    second: peixinho sprite sheet_356
+  - first:
+      213: -2309062919875599480
+    second: peixinho sprite sheet_357
+  - first:
+      213: 4297279638949059462
+    second: peixinho sprite sheet_358
+  - first:
+      213: -1370398906746552040
+    second: peixinho sprite sheet_359
+  - first:
+      213: -2932626237740925891
+    second: peixinho sprite sheet_360
+  - first:
+      213: -4973961840939970337
+    second: peixinho sprite sheet_361
+  - first:
+      213: 2411979210060636192
+    second: peixinho sprite sheet_362
+  - first:
+      213: -2813253563344705139
+    second: peixinho sprite sheet_363
+  - first:
+      213: -1343087688344289873
+    second: peixinho sprite sheet_364
+  - first:
+      213: 3285314417878424784
+    second: peixinho sprite sheet_365
+  - first:
+      213: 6915297495474513484
+    second: peixinho sprite sheet_366
+  - first:
+      213: -3950296122152714559
+    second: peixinho sprite sheet_367
+  - first:
+      213: -809026414332433859
+    second: peixinho sprite sheet_368
+  - first:
+      213: 2417178217765024257
+    second: peixinho sprite sheet_369
+  - first:
+      213: 8784166748600586768
+    second: peixinho sprite sheet_370
+  - first:
+      213: -1680139558844466642
+    second: peixinho sprite sheet_371
+  - first:
+      213: 6723556021301552750
+    second: peixinho sprite sheet_372
+  - first:
+      213: -5002120638155594520
+    second: peixinho sprite sheet_373
+  - first:
+      213: -971980026946967591
+    second: peixinho sprite sheet_374
+  - first:
+      213: -8322175816567406025
+    second: peixinho sprite sheet_375
+  - first:
+      213: -7371836696500985327
+    second: peixinho sprite sheet_376
+  - first:
+      213: -3854868470848928578
+    second: peixinho sprite sheet_377
+  - first:
+      213: 2850649111294633198
+    second: peixinho sprite sheet_378
+  - first:
+      213: -3347966049568035732
+    second: peixinho sprite sheet_379
+  - first:
+      213: 2644052118109509401
+    second: peixinho sprite sheet_380
+  - first:
+      213: -2807632072443294477
+    second: peixinho sprite sheet_381
+  - first:
+      213: -7064055408413174536
+    second: peixinho sprite sheet_382
+  - first:
+      213: -7079385694009354359
+    second: peixinho sprite sheet_383
+  - first:
+      213: -8279182347615813923
+    second: peixinho sprite sheet_384
+  - first:
+      213: -4683177203239376507
+    second: peixinho sprite sheet_385
+  - first:
+      213: 1089508012248166527
+    second: peixinho sprite sheet_386
+  - first:
+      213: -7160566821728957680
+    second: peixinho sprite sheet_387
+  - first:
+      213: 389905549192570696
+    second: peixinho sprite sheet_388
+  - first:
+      213: 630102287312210423
+    second: peixinho sprite sheet_389
+  - first:
+      213: -7909390575176730417
+    second: peixinho sprite sheet_390
+  - first:
+      213: -2167083212333633895
+    second: peixinho sprite sheet_391
+  - first:
+      213: 40630419587123558
+    second: peixinho sprite sheet_392
+  - first:
+      213: -7275065590717432792
+    second: peixinho sprite sheet_393
+  - first:
+      213: -6777686587539466000
+    second: peixinho sprite sheet_394
+  - first:
+      213: -8592888644423987428
+    second: peixinho sprite sheet_395
+  - first:
+      213: -8776727206588181248
+    second: peixinho sprite sheet_396
+  - first:
+      213: -5336624022679461165
+    second: peixinho sprite sheet_397
+  - first:
+      213: 9057161621950417012
+    second: peixinho sprite sheet_398
+  - first:
+      213: -5166648858052681320
+    second: peixinho sprite sheet_399
+  - first:
+      213: -617645739205786637
+    second: peixinho sprite sheet_400
+  - first:
+      213: -3051164917867845172
+    second: peixinho sprite sheet_401
+  - first:
+      213: -6781450489223502716
+    second: peixinho sprite sheet_402
+  - first:
+      213: -3642479219942519227
+    second: peixinho sprite sheet_403
+  - first:
+      213: -6819438648356449592
+    second: peixinho sprite sheet_404
+  - first:
+      213: 2080691837406188313
+    second: peixinho sprite sheet_405
+  - first:
+      213: -1121669170530526576
+    second: peixinho sprite sheet_406
+  - first:
+      213: 6961948966457602601
+    second: peixinho sprite sheet_407
+  - first:
+      213: -6197239159556021789
+    second: peixinho sprite sheet_408
+  - first:
+      213: 3458548101217802542
+    second: peixinho sprite sheet_409
+  - first:
+      213: 8785823002559496008
+    second: peixinho sprite sheet_410
+  - first:
+      213: 4189282002843466302
+    second: peixinho sprite sheet_411
+  - first:
+      213: -240635719904658964
+    second: peixinho sprite sheet_412
+  - first:
+      213: 7570485772482960044
+    second: peixinho sprite sheet_413
+  - first:
+      213: 9012755761204009048
+    second: peixinho sprite sheet_414
+  - first:
+      213: -3051232289992215251
+    second: peixinho sprite sheet_415
+  - first:
+      213: 2804750878512475189
+    second: peixinho sprite sheet_416
+  - first:
+      213: -7780416833543143236
+    second: peixinho sprite sheet_417
+  - first:
+      213: 2938521220865845167
+    second: peixinho sprite sheet_418
+  - first:
+      213: -3052786689176404410
+    second: peixinho sprite sheet_419
+  - first:
+      213: -3104963408465384363
+    second: peixinho sprite sheet_420
+  - first:
+      213: 2058488988239584277
+    second: peixinho sprite sheet_421
+  - first:
+      213: -8809981507735799150
+    second: peixinho sprite sheet_422
+  - first:
+      213: -4441341261060137907
+    second: peixinho sprite sheet_423
+  - first:
+      213: -378101419481680503
+    second: peixinho sprite sheet_424
+  - first:
+      213: 1805389803575627213
+    second: peixinho sprite sheet_425
+  - first:
+      213: 5708193394939777874
+    second: peixinho sprite sheet_426
+  - first:
+      213: -3772034576755636684
+    second: peixinho sprite sheet_427
+  - first:
+      213: -4000637487729829623
+    second: peixinho sprite sheet_428
+  - first:
+      213: -7321507741243644332
+    second: peixinho sprite sheet_429
+  - first:
+      213: 78616371799352141
+    second: peixinho sprite sheet_430
+  - first:
+      213: -7176777005572734674
+    second: peixinho sprite sheet_431
+  - first:
+      213: -7071668669192851009
+    second: peixinho sprite sheet_432
+  - first:
+      213: 7074862733184908218
+    second: peixinho sprite sheet_433
+  - first:
+      213: 3156019295112204594
+    second: peixinho sprite sheet_434
+  - first:
+      213: -5699111542825791516
+    second: peixinho sprite sheet_435
+  - first:
+      213: 4376683362907842038
+    second: peixinho sprite sheet_436
+  - first:
+      213: -4173779303219919002
+    second: peixinho sprite sheet_437
+  - first:
+      213: 5989960702587647514
+    second: peixinho sprite sheet_438
+  - first:
+      213: -2560527782559296786
+    second: peixinho sprite sheet_439
+  - first:
+      213: 7464708683831074457
+    second: peixinho sprite sheet_440
+  - first:
+      213: -6056208191289117093
+    second: peixinho sprite sheet_441
+  - first:
+      213: 2666898029413321874
+    second: peixinho sprite sheet_442
+  - first:
+      213: -837806476543122182
+    second: peixinho sprite sheet_443
+  - first:
+      213: 6883538357330807804
+    second: peixinho sprite sheet_444
+  - first:
+      213: 3451200303146169518
+    second: peixinho sprite sheet_445
+  - first:
+      213: -475382555723518253
+    second: peixinho sprite sheet_446
+  - first:
+      213: -5149232167441125955
+    second: peixinho sprite sheet_447
+  - first:
+      213: -3957813079363001612
+    second: peixinho sprite sheet_448
+  - first:
+      213: 2538193736657798004
+    second: peixinho sprite sheet_449
+  - first:
+      213: 702684659954769085
+    second: peixinho sprite sheet_450
+  - first:
+      213: 4590294127075846272
+    second: peixinho sprite sheet_451
+  - first:
+      213: 971051244278130918
+    second: peixinho sprite sheet_452
+  - first:
+      213: -2262572279967413333
+    second: peixinho sprite sheet_453
+  - first:
+      213: 6775225318718351782
+    second: peixinho sprite sheet_454
+  - first:
+      213: -292455085886152261
+    second: peixinho sprite sheet_455
+  - first:
+      213: -6942098095781152151
+    second: peixinho sprite sheet_456
+  - first:
+      213: 235634122706355545
+    second: peixinho sprite sheet_457
+  - first:
+      213: -3222726338786256941
+    second: peixinho sprite sheet_458
+  - first:
+      213: 8568056585805755076
+    second: peixinho sprite sheet_459
+  - first:
+      213: -5506266944312214522
+    second: peixinho sprite sheet_460
+  - first:
+      213: -2457358491487480365
+    second: peixinho sprite sheet_461
+  - first:
+      213: -8661302830759515985
+    second: peixinho sprite sheet_462
+  - first:
+      213: -1600252140510128954
+    second: peixinho sprite sheet_463
+  - first:
+      213: -540210015027018731
+    second: peixinho sprite sheet_464
+  - first:
+      213: 7856074868874679169
+    second: peixinho sprite sheet_465
+  - first:
+      213: 1404125218391874128
+    second: peixinho sprite sheet_466
+  - first:
+      213: 1655766013870357246
+    second: peixinho sprite sheet_467
+  - first:
+      213: 7609126994817694424
+    second: peixinho sprite sheet_468
+  - first:
+      213: -8922606007931227512
+    second: peixinho sprite sheet_469
+  - first:
+      213: 2058449785402926851
+    second: peixinho sprite sheet_470
+  - first:
+      213: 6690992535298810655
+    second: peixinho sprite sheet_471
+  - first:
+      213: -8511881822365832630
+    second: peixinho sprite sheet_472
+  - first:
+      213: -9176108337206017015
+    second: peixinho sprite sheet_473
+  - first:
+      213: -3841352451649909954
+    second: peixinho sprite sheet_474
+  - first:
+      213: -4146950571790894111
+    second: peixinho sprite sheet_475
+  - first:
+      213: 723355390907209911
+    second: peixinho sprite sheet_476
+  - first:
+      213: 371105177251085347
+    second: peixinho sprite sheet_477
+  - first:
+      213: -2555829952657331410
+    second: peixinho sprite sheet_478
+  - first:
+      213: -8241992173645976050
+    second: peixinho sprite sheet_479
+  - first:
+      213: -5133476137311836826
+    second: peixinho sprite sheet_480
+  - first:
+      213: 6459227204084791176
+    second: peixinho sprite sheet_481
+  - first:
+      213: 2808462857073550213
+    second: peixinho sprite sheet_482
+  - first:
+      213: 4327595607968858531
+    second: peixinho sprite sheet_483
+  - first:
+      213: -511579698395103830
+    second: peixinho sprite sheet_484
+  - first:
+      213: -1242813718729643448
+    second: peixinho sprite sheet_485
+  - first:
+      213: -3166949841158861819
+    second: peixinho sprite sheet_486
+  - first:
+      213: 7582268236709758454
+    second: peixinho sprite sheet_487
+  - first:
+      213: 3549844177319514522
+    second: peixinho sprite sheet_488
+  - first:
+      213: 1888305306138271676
+    second: peixinho sprite sheet_489
+  - first:
+      213: -5299675266930975682
+    second: peixinho sprite sheet_490
+  - first:
+      213: 6245638958214572586
+    second: peixinho sprite sheet_491
+  - first:
+      213: -1156446562319275011
+    second: peixinho sprite sheet_492
+  - first:
+      213: -3896431925676757409
+    second: peixinho sprite sheet_493
+  - first:
+      213: 6410673404769557059
+    second: peixinho sprite sheet_494
+  - first:
+      213: 7855440016973871674
+    second: peixinho sprite sheet_495
+  - first:
+      213: 6191320927296244272
+    second: peixinho sprite sheet_496
+  - first:
+      213: -5870520948428406446
+    second: peixinho sprite sheet_497
+  - first:
+      213: 2447266037561228825
+    second: peixinho sprite sheet_498
+  - first:
+      213: -4934367369101351086
+    second: peixinho sprite sheet_499
+  - first:
+      213: 3671827301517769381
+    second: peixinho sprite sheet_500
+  - first:
+      213: 1722242400673726968
+    second: peixinho sprite sheet_501
+  - first:
+      213: -5528828818099459614
+    second: peixinho sprite sheet_502
+  - first:
+      213: -7236844278428195648
+    second: peixinho sprite sheet_503
+  - first:
+      213: 7345380862563748953
+    second: peixinho sprite sheet_504
+  - first:
+      213: -5263412717672416246
+    second: peixinho sprite sheet_505
+  - first:
+      213: 1444583095471070553
+    second: peixinho sprite sheet_506
+  - first:
+      213: 5931140273225401048
+    second: peixinho sprite sheet_507
+  - first:
+      213: -2494137834293911975
+    second: peixinho sprite sheet_508
+  - first:
+      213: -601867106717303043
+    second: peixinho sprite sheet_509
+  - first:
+      213: 5844469583420659194
+    second: peixinho sprite sheet_510
+  - first:
+      213: 1893264201505782270
+    second: peixinho sprite sheet_511
+  - first:
+      213: 558914713843537490
+    second: peixinho sprite sheet_512
+  - first:
+      213: -5446138967645009074
+    second: peixinho sprite sheet_513
+  - first:
+      213: 7076194840074101042
+    second: peixinho sprite sheet_514
+  - first:
+      213: -875556294082723108
+    second: peixinho sprite sheet_515
+  - first:
+      213: -4282170286839659982
+    second: peixinho sprite sheet_516
+  - first:
+      213: -5634889256623706443
+    second: peixinho sprite sheet_517
+  - first:
+      213: -8505246162645485052
+    second: peixinho sprite sheet_518
+  - first:
+      213: -3411800524911299382
+    second: peixinho sprite sheet_519
+  - first:
+      213: 3315159094965200785
+    second: peixinho sprite sheet_520
+  - first:
+      213: -2969384702543632238
+    second: peixinho sprite sheet_521
+  - first:
+      213: 368765864080737095
+    second: peixinho sprite sheet_522
+  - first:
+      213: -4989143240348562430
+    second: peixinho sprite sheet_523
+  - first:
+      213: -7167660739725513644
+    second: peixinho sprite sheet_524
+  - first:
+      213: 3592987309928476149
+    second: peixinho sprite sheet_525
+  - first:
+      213: 5437637164997038919
+    second: peixinho sprite sheet_526
+  - first:
+      213: -6410983007663550871
+    second: peixinho sprite sheet_527
+  - first:
+      213: -8684503012149339325
+    second: peixinho sprite sheet_528
+  - first:
+      213: 3340075375386823108
+    second: peixinho sprite sheet_529
+  - first:
+      213: -4985806475989955390
+    second: peixinho sprite sheet_530
+  - first:
+      213: -6390702908927492890
+    second: peixinho sprite sheet_531
+  - first:
+      213: 2858652415411670216
+    second: peixinho sprite sheet_532
+  - first:
+      213: 9142895643177835621
+    second: peixinho sprite sheet_533
+  - first:
+      213: 5689706654088759269
+    second: peixinho sprite sheet_534
+  - first:
+      213: -4544720717214958075
+    second: peixinho sprite sheet_535
+  - first:
+      213: 1233689752643111850
+    second: peixinho sprite sheet_536
+  - first:
+      213: -855628944908755927
+    second: peixinho sprite sheet_537
+  - first:
+      213: 4505005289796255246
+    second: peixinho sprite sheet_538
+  - first:
+      213: 4108738796371666505
+    second: peixinho sprite sheet_539
+  - first:
+      213: -7644532662806659857
+    second: peixinho sprite sheet_540
+  - first:
+      213: -6280404481890798729
+    second: peixinho sprite sheet_541
+  - first:
+      213: 8694311753566561892
+    second: peixinho sprite sheet_542
+  - first:
+      213: 2284834593651267115
+    second: peixinho sprite sheet_543
+  - first:
+      213: -7139897312619005284
+    second: peixinho sprite sheet_544
+  - first:
+      213: 7546082596342359691
+    second: peixinho sprite sheet_545
+  - first:
+      213: -7332489131196070825
+    second: peixinho sprite sheet_546
+  - first:
+      213: -2505332058929767942
+    second: peixinho sprite sheet_547
+  - first:
+      213: -6285071378256777921
+    second: peixinho sprite sheet_548
+  - first:
+      213: -8432766284175820451
+    second: peixinho sprite sheet_549
+  - first:
+      213: 4613840940285199576
+    second: peixinho sprite sheet_550
+  - first:
+      213: -7654864842035900811
+    second: peixinho sprite sheet_551
+  - first:
+      213: -340345369642475010
+    second: peixinho sprite sheet_552
+  - first:
+      213: 2079201354213057858
+    second: peixinho sprite sheet_553
+  - first:
+      213: 4100934391344476298
+    second: peixinho sprite sheet_554
+  - first:
+      213: 2546949328176293873
+    second: peixinho sprite sheet_555
+  - first:
+      213: 4274914545285118589
+    second: peixinho sprite sheet_556
+  - first:
+      213: 7810270009268275544
+    second: peixinho sprite sheet_557
+  - first:
+      213: 9128398610836075910
+    second: peixinho sprite sheet_558
+  - first:
+      213: -2714064982886902151
+    second: peixinho sprite sheet_559
+  - first:
+      213: 8675332676296374963
+    second: peixinho sprite sheet_560
+  - first:
+      213: 260182921887388813
+    second: peixinho sprite sheet_561
+  - first:
+      213: -1953224489170106969
+    second: peixinho sprite sheet_562
+  - first:
+      213: -2205600442550807329
+    second: peixinho sprite sheet_563
+  - first:
+      213: 7456163306886576446
+    second: peixinho sprite sheet_564
+  - first:
+      213: 3233125614737027872
+    second: peixinho sprite sheet_565
+  - first:
+      213: 3341939236286828253
+    second: peixinho sprite sheet_566
+  - first:
+      213: 6963144016585939377
+    second: peixinho sprite sheet_567
+  - first:
+      213: -3606255600437596634
+    second: peixinho sprite sheet_568
+  - first:
+      213: -4689918885071830712
+    second: peixinho sprite sheet_569
+  - first:
+      213: -1806000468722292209
+    second: peixinho sprite sheet_570
+  - first:
+      213: -638235770265508684
+    second: peixinho sprite sheet_571
+  - first:
+      213: 9064073450680391576
+    second: peixinho sprite sheet_572
+  - first:
+      213: -7321565088424168378
+    second: peixinho sprite sheet_573
+  - first:
+      213: 457652827091544671
+    second: peixinho sprite sheet_574
+  - first:
+      213: -1891961651223781363
+    second: peixinho sprite sheet_575
+  - first:
+      213: 489624838558559405
+    second: peixinho sprite sheet_576
+  - first:
+      213: -1256175233545876477
+    second: peixinho sprite sheet_577
+  - first:
+      213: -5491213565893119003
+    second: peixinho sprite sheet_578
+  - first:
+      213: 1893834659350536593
+    second: peixinho sprite sheet_579
+  - first:
+      213: 426644255716411826
+    second: peixinho sprite sheet_580
+  - first:
+      213: 6001443287896518300
+    second: peixinho sprite sheet_581
+  - first:
+      213: 3372176580672866344
+    second: peixinho sprite sheet_582
+  - first:
+      213: -1263682376798886679
+    second: peixinho sprite sheet_583
+  - first:
+      213: -3299371857732000145
+    second: peixinho sprite sheet_584
+  - first:
+      213: 7894578052605453919
+    second: peixinho sprite sheet_585
+  - first:
+      213: -5869023136224175803
+    second: peixinho sprite sheet_586
+  - first:
+      213: -7048599681179218183
+    second: peixinho sprite sheet_587
+  - first:
+      213: -4292031375404907132
+    second: peixinho sprite sheet_588
+  - first:
+      213: -8601716622262534258
+    second: peixinho sprite sheet_589
+  - first:
+      213: 2018094453952181647
+    second: peixinho sprite sheet_590
+  - first:
+      213: 7957219165990056637
+    second: peixinho sprite sheet_591
+  - first:
+      213: -7409642933147610283
+    second: peixinho sprite sheet_592
+  - first:
+      213: 1054323759160784202
+    second: peixinho sprite sheet_593
+  - first:
+      213: 1228018526019863262
+    second: peixinho sprite sheet_594
+  - first:
+      213: -7187549781118336648
+    second: peixinho sprite sheet_595
+  - first:
+      213: -3828426917375125655
+    second: peixinho sprite sheet_596
+  - first:
+      213: 3519915767115087995
+    second: peixinho sprite sheet_597
+  - first:
+      213: 3377754095904678256
+    second: peixinho sprite sheet_598
+  - first:
+      213: -5138063728963493178
+    second: peixinho sprite sheet_599
+  - first:
+      213: 8232553148171927060
+    second: peixinho sprite sheet_600
+  - first:
+      213: -5309284278149690500
+    second: peixinho sprite sheet_601
+  - first:
+      213: 7682136219167872686
+    second: peixinho sprite sheet_602
+  - first:
+      213: 1829645725820550853
+    second: peixinho sprite sheet_603
+  - first:
+      213: 4442780994505644934
+    second: peixinho sprite sheet_604
+  - first:
+      213: 8224014886816609282
+    second: peixinho sprite sheet_605
+  - first:
+      213: 8320923775546428439
+    second: peixinho sprite sheet_606
+  - first:
+      213: -2781394973118383906
+    second: peixinho sprite sheet_607
+  - first:
+      213: -9027896875656417955
+    second: peixinho sprite sheet_608
+  - first:
+      213: -6210660278854785999
+    second: peixinho sprite sheet_609
+  - first:
+      213: -9172323304554657853
+    second: peixinho sprite sheet_610
+  - first:
+      213: 2024260865219873796
+    second: peixinho sprite sheet_611
+  - first:
+      213: 64941678767929639
+    second: peixinho sprite sheet_612
+  - first:
+      213: -7407464222320517461
+    second: peixinho sprite sheet_613
+  - first:
+      213: 4975525440523858974
+    second: peixinho sprite sheet_614
+  - first:
+      213: -7571725557172924169
+    second: peixinho sprite sheet_615
+  - first:
+      213: 4546363813461573746
+    second: peixinho sprite sheet_616
+  - first:
+      213: -5112251174504895324
+    second: peixinho sprite sheet_617
+  - first:
+      213: -8144239285383314729
+    second: peixinho sprite sheet_618
+  - first:
+      213: 991632203105392954
+    second: peixinho sprite sheet_619
+  - first:
+      213: -8591099444264594219
+    second: peixinho sprite sheet_620
+  - first:
+      213: 5547257067908063552
+    second: peixinho sprite sheet_621
+  - first:
+      213: -1647794269230837157
+    second: peixinho sprite sheet_622
+  - first:
+      213: -3099131743761323025
+    second: peixinho sprite sheet_623
+  - first:
+      213: 1480233168601044953
+    second: peixinho sprite sheet_624
+  - first:
+      213: 4220859137025977340
+    second: peixinho sprite sheet_625
+  - first:
+      213: 3837808891984788505
+    second: peixinho sprite sheet_626
+  - first:
+      213: 6048213148761835506
+    second: peixinho sprite sheet_627
+  - first:
+      213: 2499633450188542275
+    second: peixinho sprite sheet_628
+  - first:
+      213: 8036834440974643936
+    second: peixinho sprite sheet_629
+  - first:
+      213: -4788215955876810390
+    second: peixinho sprite sheet_630
+  - first:
+      213: -1529078669999452149
+    second: peixinho sprite sheet_631
+  - first:
+      213: 8590172900892194952
+    second: peixinho sprite sheet_632
+  - first:
+      213: 2394444088482221048
+    second: peixinho sprite sheet_633
+  - first:
+      213: -7830120025461129965
+    second: peixinho sprite sheet_634
+  - first:
+      213: 6318138128728350045
+    second: peixinho sprite sheet_635
+  - first:
+      213: 8881498871438738966
+    second: peixinho sprite sheet_636
+  - first:
+      213: 8493847942090389110
+    second: peixinho sprite sheet_637
+  - first:
+      213: 6988211951503331313
+    second: peixinho sprite sheet_638
+  - first:
+      213: 6725487420232488783
+    second: peixinho sprite sheet_639
+  - first:
+      213: -2136483376193756063
+    second: peixinho sprite sheet_640
+  - first:
+      213: -4451155442750299811
+    second: peixinho sprite sheet_641
+  - first:
+      213: 6401210448706444661
+    second: peixinho sprite sheet_642
+  - first:
+      213: -4683807571278853975
+    second: peixinho sprite sheet_643
+  - first:
+      213: 4418670631037789423
+    second: peixinho sprite sheet_644
+  - first:
+      213: -8530926615682774177
+    second: peixinho sprite sheet_645
+  - first:
+      213: 7992210268394595169
+    second: peixinho sprite sheet_646
+  - first:
+      213: -2245634909907566037
+    second: peixinho sprite sheet_647
+  - first:
+      213: 722127000918801536
+    second: peixinho sprite sheet_648
+  - first:
+      213: -8725353907959340435
+    second: peixinho sprite sheet_649
+  - first:
+      213: 7002068063723638217
+    second: peixinho sprite sheet_650
+  - first:
+      213: 7622151199052164593
+    second: peixinho sprite sheet_651
+  - first:
+      213: 8893889491817492982
+    second: peixinho sprite sheet_652
+  - first:
+      213: -8716866527579115292
+    second: peixinho sprite sheet_653
+  - first:
+      213: -6363835832954727519
+    second: peixinho sprite sheet_654
+  - first:
+      213: 2581596329561371328
+    second: peixinho sprite sheet_655
+  - first:
+      213: -5305679662987945281
+    second: peixinho sprite sheet_656
+  - first:
+      213: 345428827027019389
+    second: peixinho sprite sheet_657
+  - first:
+      213: 3872720885886754153
+    second: peixinho sprite sheet_658
+  - first:
+      213: -6429124577193671654
+    second: peixinho sprite sheet_659
+  - first:
+      213: 3335464034728353327
+    second: peixinho sprite sheet_660
+  - first:
+      213: -732432726735404461
+    second: peixinho sprite sheet_661
+  - first:
+      213: -8059247877665414510
+    second: peixinho sprite sheet_662
+  - first:
+      213: 2533811947145492377
+    second: peixinho sprite sheet_663
+  - first:
+      213: -8407902362316519142
+    second: peixinho sprite sheet_664
+  - first:
+      213: -580031937625366365
+    second: peixinho sprite sheet_665
+  - first:
+      213: -8668920048437301902
+    second: peixinho sprite sheet_666
+  - first:
+      213: -3163599542630565234
+    second: peixinho sprite sheet_667
+  - first:
+      213: -2447425544145661008
+    second: peixinho sprite sheet_668
+  - first:
+      213: -4349216668874580792
+    second: peixinho sprite sheet_669
+  - first:
+      213: -597297883730786895
+    second: peixinho sprite sheet_670
+  - first:
+      213: -8369353658423967171
+    second: peixinho sprite sheet_671
+  - first:
+      213: -5318395347135623909
+    second: peixinho sprite sheet_672
+  - first:
+      213: 9003392706720618473
+    second: peixinho sprite sheet_673
+  - first:
+      213: 6653454341449681913
+    second: peixinho sprite sheet_674
+  - first:
+      213: 6244951711460772779
+    second: peixinho sprite sheet_675
+  - first:
+      213: -5408325779361160644
+    second: peixinho sprite sheet_676
+  - first:
+      213: 6174749605544926163
+    second: peixinho sprite sheet_677
+  - first:
+      213: -339399022258417842
+    second: peixinho sprite sheet_678
+  - first:
+      213: 2844945752225097258
+    second: peixinho sprite sheet_679
+  - first:
+      213: 891950580205423801
+    second: peixinho sprite sheet_680
+  - first:
+      213: 8734445658792041667
+    second: peixinho sprite sheet_681
+  - first:
+      213: -1707171026564061953
+    second: peixinho sprite sheet_682
+  - first:
+      213: 6786854181760801297
+    second: peixinho sprite sheet_683
+  - first:
+      213: -7947396617788419142
+    second: peixinho sprite sheet_684
+  - first:
+      213: -994003243939951755
+    second: peixinho sprite sheet_685
+  - first:
+      213: 864611666339931395
+    second: peixinho sprite sheet_686
+  - first:
+      213: 940707876190612241
+    second: peixinho sprite sheet_687
+  - first:
+      213: -5797006669736094119
+    second: peixinho sprite sheet_688
+  - first:
+      213: 2754364481608431846
+    second: peixinho sprite sheet_689
+  - first:
+      213: 6550479286463504610
+    second: peixinho sprite sheet_690
+  - first:
+      213: 6340713694238937209
+    second: peixinho sprite sheet_691
+  - first:
+      213: -6566814912780954161
+    second: peixinho sprite sheet_692
+  - first:
+      213: -4817920403658985772
+    second: peixinho sprite sheet_693
+  - first:
+      213: 7873575616911954622
+    second: peixinho sprite sheet_694
+  - first:
+      213: -4861087039015883437
+    second: peixinho sprite sheet_695
+  - first:
+      213: 8336414874814462712
+    second: peixinho sprite sheet_696
+  - first:
+      213: -3956674010250951901
+    second: peixinho sprite sheet_697
+  - first:
+      213: -7948983376154915465
+    second: peixinho sprite sheet_698
+  - first:
+      213: -3396356250132428904
+    second: peixinho sprite sheet_699
+  - first:
+      213: -2240669031787149987
+    second: peixinho sprite sheet_700
+  - first:
+      213: 7546865560228770937
+    second: peixinho sprite sheet_701
+  - first:
+      213: 3645114415737062677
+    second: peixinho sprite sheet_702
+  - first:
+      213: 7763228194199718859
+    second: peixinho sprite sheet_703
+  - first:
+      213: -3365844074270975347
+    second: peixinho sprite sheet_704
+  - first:
+      213: -584204145865534894
+    second: peixinho sprite sheet_705
+  - first:
+      213: -5711811376220384100
+    second: peixinho sprite sheet_706
+  - first:
+      213: -1768671988234188774
+    second: peixinho sprite sheet_707
+  - first:
+      213: -2791443535304282608
+    second: peixinho sprite sheet_708
+  - first:
+      213: 6801064528205672662
+    second: peixinho sprite sheet_709
+  - first:
+      213: -3648159570819704185
+    second: peixinho sprite sheet_710
+  - first:
+      213: 2905013385147875293
+    second: peixinho sprite sheet_711
+  - first:
+      213: 3208456100821700568
+    second: peixinho sprite sheet_712
+  - first:
+      213: 3331669636538440972
+    second: peixinho sprite sheet_713
+  - first:
+      213: 3457839334451228790
+    second: peixinho sprite sheet_714
+  - first:
+      213: 8407032960352280044
+    second: peixinho sprite sheet_715
+  - first:
+      213: 7061570164814045895
+    second: peixinho sprite sheet_716
+  - first:
+      213: -929304334097173003
+    second: peixinho sprite sheet_717
+  - first:
+      213: -4020326623963754352
+    second: peixinho sprite sheet_718
+  - first:
+      213: 1847347901607984503
+    second: peixinho sprite sheet_719
+  - first:
+      213: -2177011366640744354
+    second: peixinho sprite sheet_720
+  - first:
+      213: 862532790613486869
+    second: peixinho sprite sheet_721
+  - first:
+      213: 1338487125106917200
+    second: peixinho sprite sheet_722
+  - first:
+      213: -1019679679204249077
+    second: peixinho sprite sheet_723
+  - first:
+      213: -4632696423222940480
+    second: peixinho sprite sheet_724
+  - first:
+      213: -900055594439562483
+    second: peixinho sprite sheet_725
+  - first:
+      213: 8916175499863109059
+    second: peixinho sprite sheet_726
+  - first:
+      213: -8716178692492684107
+    second: peixinho sprite sheet_727
+  - first:
+      213: -7144867699085960214
+    second: peixinho sprite sheet_728
+  - first:
+      213: -5506046603614387279
+    second: peixinho sprite sheet_729
+  - first:
+      213: -3272604351547662172
+    second: peixinho sprite sheet_730
+  - first:
+      213: 3964679542942972954
+    second: peixinho sprite sheet_731
+  - first:
+      213: -1204390887305741917
+    second: peixinho sprite sheet_732
+  - first:
+      213: 6938175701000675438
+    second: peixinho sprite sheet_733
+  - first:
+      213: -2774850341007756360
+    second: peixinho sprite sheet_734
+  - first:
+      213: 2209391088855959670
+    second: peixinho sprite sheet_735
+  - first:
+      213: -3201183198174958559
+    second: peixinho sprite sheet_736
+  - first:
+      213: -1389731384695821589
+    second: peixinho sprite sheet_737
+  - first:
+      213: 7373427230029881711
+    second: peixinho sprite sheet_738
+  - first:
+      213: 2308329820649787639
+    second: peixinho sprite sheet_739
+  - first:
+      213: -404004774483891850
+    second: peixinho sprite sheet_740
+  - first:
+      213: -7914412486416125674
+    second: peixinho sprite sheet_741
+  - first:
+      213: -4714396072401929621
+    second: peixinho sprite sheet_742
+  - first:
+      213: 9022610138731651266
+    second: peixinho sprite sheet_743
+  - first:
+      213: -8825428781796956738
+    second: peixinho sprite sheet_744
+  - first:
+      213: 3525977394646095455
+    second: peixinho sprite sheet_745
+  - first:
+      213: 4104735246681522096
+    second: peixinho sprite sheet_746
+  - first:
+      213: -9160979827062072320
+    second: peixinho sprite sheet_747
+  - first:
+      213: -2229520424012982222
+    second: peixinho sprite sheet_748
+  - first:
+      213: -1346802048726699503
+    second: peixinho sprite sheet_749
+  - first:
+      213: -7119014992439726575
+    second: peixinho sprite sheet_750
+  - first:
+      213: 588745389783630169
+    second: peixinho sprite sheet_751
+  - first:
+      213: -6723745678156686393
+    second: peixinho sprite sheet_752
+  - first:
+      213: 3045066136202554508
+    second: peixinho sprite sheet_753
+  - first:
+      213: 248834763904612406
+    second: peixinho sprite sheet_754
+  - first:
+      213: -8686738246800308600
+    second: peixinho sprite sheet_755
+  - first:
+      213: -1303549451643117301
+    second: peixinho sprite sheet_756
+  - first:
+      213: -4816456728450302010
+    second: peixinho sprite sheet_757
+  - first:
+      213: 1322677058713822694
+    second: peixinho sprite sheet_758
+  - first:
+      213: -4058463814643207602
+    second: peixinho sprite sheet_759
+  - first:
+      213: 7891742949031298555
+    second: peixinho sprite sheet_760
+  - first:
+      213: -8759330960213467504
+    second: peixinho sprite sheet_761
+  - first:
+      213: -4840839580202146713
+    second: peixinho sprite sheet_762
+  - first:
+      213: 3336725828838706813
+    second: peixinho sprite sheet_763
+  - first:
+      213: 1065502527154884765
+    second: peixinho sprite sheet_764
+  - first:
+      213: 7228949671192713343
+    second: peixinho sprite sheet_765
+  - first:
+      213: 6280014995281698994
+    second: peixinho sprite sheet_766
+  - first:
+      213: 5978673045056153407
+    second: peixinho sprite sheet_767
+  - first:
+      213: 4447334806413430164
+    second: peixinho sprite sheet_768
+  - first:
+      213: 9115144049771450740
+    second: peixinho sprite sheet_769
+  - first:
+      213: -7098291927208229873
+    second: peixinho sprite sheet_770
+  - first:
+      213: 4665135600070661123
+    second: peixinho sprite sheet_771
+  - first:
+      213: 8621763903762924886
+    second: peixinho sprite sheet_772
+  - first:
+      213: -5000939215109305442
+    second: peixinho sprite sheet_773
+  - first:
+      213: 5922499840388793971
+    second: peixinho sprite sheet_774
+  - first:
+      213: -409469715456098952
+    second: peixinho sprite sheet_775
+  - first:
+      213: 3146731315588975399
+    second: peixinho sprite sheet_776
+  - first:
+      213: 8876584056380232816
+    second: peixinho sprite sheet_777
+  - first:
+      213: -4352288738592065617
+    second: peixinho sprite sheet_778
+  - first:
+      213: -5545984232427238285
+    second: peixinho sprite sheet_779
+  - first:
+      213: 3695904924264806982
+    second: peixinho sprite sheet_780
+  - first:
+      213: 898369654136601841
+    second: peixinho sprite sheet_781
+  - first:
+      213: -1269293761562082211
+    second: peixinho sprite sheet_782
+  - first:
+      213: 2758198220854152334
+    second: peixinho sprite sheet_783
+  - first:
+      213: -255941583158890685
+    second: peixinho sprite sheet_784
+  - first:
+      213: 2194222701012415917
+    second: peixinho sprite sheet_785
+  - first:
+      213: -9067055332269235163
+    second: peixinho sprite sheet_786
+  - first:
+      213: 7403072355701823323
+    second: peixinho sprite sheet_787
+  - first:
+      213: 5537325116545351424
+    second: peixinho sprite sheet_788
+  - first:
+      213: -969928215360658555
+    second: peixinho sprite sheet_789
+  - first:
+      213: 226527666737131813
+    second: peixinho sprite sheet_790
+  - first:
+      213: -3497281002468781442
+    second: peixinho sprite sheet_791
+  - first:
+      213: 716529136359001940
+    second: peixinho sprite sheet_792
+  - first:
+      213: -1071283483540517161
+    second: peixinho sprite sheet_793
+  - first:
+      213: -7063455421262608306
+    second: peixinho sprite sheet_794
+  - first:
+      213: -6260374056462333296
+    second: peixinho sprite sheet_795
+  - first:
+      213: 1771717577395266796
+    second: peixinho sprite sheet_796
+  - first:
+      213: 318343287678745297
+    second: peixinho sprite sheet_797
+  - first:
+      213: -221946030928709704
+    second: peixinho sprite sheet_798
+  - first:
+      213: 7731374765130610469
+    second: peixinho sprite sheet_799
+  - first:
+      213: -9006442017518517633
+    second: peixinho sprite sheet_800
+  - first:
+      213: -4307233423157379238
+    second: peixinho sprite sheet_801
+  - first:
+      213: 6306847627583156064
+    second: peixinho sprite sheet_802
+  - first:
+      213: 2891620140186055065
+    second: peixinho sprite sheet_803
+  - first:
+      213: 4799025592106265608
+    second: peixinho sprite sheet_804
+  - first:
+      213: 4153338067498204452
+    second: peixinho sprite sheet_805
+  - first:
+      213: 5852609314102478248
+    second: peixinho sprite sheet_806
+  - first:
+      213: 6511236713238347865
+    second: peixinho sprite sheet_807
+  - first:
+      213: 9203583415594159973
+    second: peixinho sprite sheet_808
+  - first:
+      213: 1362936683501903793
+    second: peixinho sprite sheet_809
+  - first:
+      213: -5175994568485807340
+    second: peixinho sprite sheet_810
+  - first:
+      213: 4484183238096214985
+    second: peixinho sprite sheet_811
+  - first:
+      213: 4654694976064655858
+    second: peixinho sprite sheet_812
+  - first:
+      213: -8821840586940319797
+    second: peixinho sprite sheet_813
+  - first:
+      213: -2182234236359941699
+    second: peixinho sprite sheet_814
+  - first:
+      213: 2594005189549368051
+    second: peixinho sprite sheet_815
+  - first:
+      213: -7896440923179014816
+    second: peixinho sprite sheet_816
+  - first:
+      213: 3941960639394313026
+    second: peixinho sprite sheet_817
+  - first:
+      213: 1929364413803245894
+    second: peixinho sprite sheet_818
+  - first:
+      213: -2782824645162212031
+    second: peixinho sprite sheet_819
+  - first:
+      213: -4417823156736281259
+    second: peixinho sprite sheet_820
+  - first:
+      213: -8577034338202414264
+    second: peixinho sprite sheet_821
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peixinho sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 240
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07c0ae1bb8d5f490800000000000000
+      internalID: -7713020488617769202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peixinho sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec47518924d5230800000000000000
+      internalID: 3629130095692926502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peixinho sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 352
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc54656853987f8e0800000000000000
+      internalID: -1659707074682665521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peixinho sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 352
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd41c27a535fa2350800000000000000
+      internalID: 5992871864956622043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peixinho sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa99f6dd83907c0800000000000000
+      internalID: -4104687061660225783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peixinho sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 240
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6714f630318fa0800000000000000
+      internalID: -5800301832494945064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peixinho sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c832efe2d5297c30800000000000000
+      internalID: 4357555702355605701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peixinho sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 240
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e126ed3ca5cd50800000000000000
+      internalID: 6756996197793259597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

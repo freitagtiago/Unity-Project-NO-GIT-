@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1189238389303486950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1189238389303486968}
+  - component: {fileID: 1189238389303486969}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1189238389303486968
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1189238389303486950}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1189238389303486969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1189238389303486950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cb431ee533db6d48863b817e2d70116, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAlive: 1
+  fruitsOnStage: []
+  currentCountdown: 0
+  runningCountdown: 0
+  timeToCountdown: 60
+  maxNumberOfFruitsOnStage: 5
+  chanceOfSpawn: 30
+  spawnRangeOnX: f3ffffff0a000000
+  heightOdSpawn: 7
+  allSpawnableFruits:
+  - {fileID: 11400000, guid: 3afc8e6e5b151ad4e9f44a5a974afe90, type: 2}
+  - {fileID: 11400000, guid: 9c03712ce2042b640a74659546f75f23, type: 2}
+  - {fileID: 11400000, guid: e932277692b76794fab08ca5b2675272, type: 2}
+  - {fileID: 11400000, guid: 3b5509985cfc7e847ba06538d61cf3a7, type: 2}
+  pickupPrefab: {fileID: 5745196501641468991, guid: e6721974cc857e842ab62b2e93c60952, type: 3}
+  uiTimer: {fileID: 0}

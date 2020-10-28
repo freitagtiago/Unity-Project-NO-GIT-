@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 065120812eeda664fa26147c14aeeadb, type: 3}
+  m_Name: HealthPotion
+  m_EditorClassIdentifier: Assembly-CSharp::ItemConfig
+  itemType: 0
+  itemEffect: 1
+  attributteToModify: 5
+  id: 0
+  itemName: Health Potion
+  description: This strange potion restores your health by 20.
+  price: 25
+  sprite: {fileID: 21300000, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
+  stackable: 1
+  timeEffectItem: 0
+  modifier: 20
+  isPercentage: 0
+  causeStatusCondition: 0
+  activateEffect: {fileID: 0}

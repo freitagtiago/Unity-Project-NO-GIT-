@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Apple
   m_EditorClassIdentifier: 
   fruitName: Apple
-  weight: 1
+  weight: 3
   sprite: {fileID: 8713120321045492238, guid: 553750336b40382419c97c6013807111, type: 3}
   spawnChance: 50

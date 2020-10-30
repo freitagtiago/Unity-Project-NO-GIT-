@@ -110,6 +110,7 @@ public class Backpack : MonoBehaviour
     public void ResetBackpack()
     {
         backpackContent.Clear();
+        currentWeight = 0;
     }
 
     public List<Fruit> GetBackpackContent()

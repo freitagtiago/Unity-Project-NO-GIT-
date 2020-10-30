@@ -16,6 +16,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] float currentCountdown;
     [SerializeField] bool runningCountdown = false;
     [SerializeField] bool isDead = false;
+    [SerializeField] int weightCollected;
 
     [Header("Config")]
     [SerializeField] float timeToCountdown = 60f;
@@ -23,7 +24,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] float chanceOfSpawn = 30;
     [SerializeField] int[] spawnRangeOnX = new int[2];
     [SerializeField] int[] spawnRangeTime = new int[2];
-    [SerializeField] int heightOdSpawn = 7;
+    [SerializeField] int heightOfSpawn = 7;
     [SerializeField] bool canSpawn = true;
 
 
@@ -122,7 +123,7 @@ public class GameManager : MonoBehaviour
                 Fruit fruit = allSpawnableFruits[index];
                 if (Random.Range(0, 100) < fruit.GetSpawnChance())
                 {
-                    var spawnedFruit = Instantiate(pickupPrefab, new Vector3(Random.Range(spawnRangeOnX[0], spawnRangeOnX[1]), heightOdSpawn, 0), Quaternion.identity);
+                    var spawnedFruit = Instantiate(pickupPrefab, new Vector3(Random.Range(spawnRangeOnX[0], spawnRangeOnX[1]), heightOfSpawn, 0), Quaternion.identity);
                     spawnedFruit.SetupFruit(fruit);
                     fruitsOnStage.Add(fruit);
                 }
@@ -193,7 +194,7 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            ui.SetupResultsPanel(fruitsCollected, backpack.GetWeight());
+            ui.SetupResultsPanel(fruitsCollected, weightCollected);
         }
     }
 
@@ -213,7 +214,23 @@ public class GameManager : MonoBehaviour
     public void ColectFruit(Fruit fruit)
     {
         fruitsOnStage.Remove(fruit);
+        int weight = backpack.GetWeight();
+        if (weight <=10)
+        {
+            Debug.Log(weight);
+            mover.SetCurrentSpeed(1);
+        }else if (weight <=20)
+        {
+            Debug.Log(weight);
+            mover.SetCurrentSpeed(0.75f);
+        }
+        else
+        {
+            Debug.Log(weight);
+            mover.SetCurrentSpeed(0.5f);
+        }
     }
+
     public void InteractWithFountain()
     {
         if (!runningCountdown) return;
@@ -223,7 +240,9 @@ public class GameManager : MonoBehaviour
         {
             fruitsCollected.Add(fruit);
         }
+        weightCollected += backpack.GetWeight();
         backpack.ResetBackpack();
+        mover.SetCurrentSpeed(1);
     }
     #endregion
 }

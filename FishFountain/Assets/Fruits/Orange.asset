@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Orange
   m_EditorClassIdentifier: 
   fruitName: Orange
-  weight: 3
+  weight: 4
   sprite: {fileID: 4952637736013467042, guid: 553750336b40382419c97c6013807111, type: 3}
   spawnChance: 40

@@ -7,6 +7,7 @@ public class Mover : MonoBehaviour
 {
     [Header("General")]
     [SerializeField] float speed = 5f;
+    [SerializeField] float currentSpeed;
     [SerializeField] float jumpForce = 300f;
 
     [Header("Control Variables")]
@@ -26,7 +27,8 @@ public class Mover : MonoBehaviour
             rig = GetComponent<Rigidbody2D>();
             anim = GetComponent<Animator>();
             spriteRenderer = GetComponent<SpriteRenderer>();
-        }  
+        }
+        currentSpeed = speed;
     }
 
     // Start is called before the first frame update
@@ -48,7 +50,7 @@ public class Mover : MonoBehaviour
     {
         if (isGrounded)
         {
-            rig.velocity = (new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"))) * speed * Time.deltaTime;
+            rig.velocity = (new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"))) * currentSpeed * Time.deltaTime;
         }
         if (Input.GetKey(KeyCode.UpArrow) && isGrounded)
         {
@@ -96,6 +98,18 @@ public class Mover : MonoBehaviour
     public void SetCanMove(bool value)
     {
         canMove = value;
+    }
+
+    public void SetCurrentSpeed(float value)
+    {
+        if(value == 1)
+        {
+            currentSpeed = speed;
+        } else        
+        {
+            currentSpeed *= value;
+        }
+
     }
 
     #endregion

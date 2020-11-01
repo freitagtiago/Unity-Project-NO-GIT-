@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,7 +11,7 @@ public class Backpack : MonoBehaviour
     [SerializeField] int unitContentLimit = 10;
     [SerializeField] int weightContentLimit = 10;
     [SerializeField] int currentWeight = 0;
-
+    public Action UpdateUi;
 
     public void Awake()
     {
@@ -22,11 +23,6 @@ public class Backpack : MonoBehaviour
         {
             Destroy(gameObject);
         }
-    }
-
-    void Start()
-    {
-        
     }
 
     private bool CanAdd(Fruit fruit)
@@ -92,6 +88,11 @@ public class Backpack : MonoBehaviour
                 backpackContent.Add(fruit);
                 currentWeight += fruit.GetWeight();
             }
+
+            if(UpdateUi != null)
+            {
+                UpdateUi();
+            }
         }
     }
 
@@ -105,12 +106,20 @@ public class Backpack : MonoBehaviour
         //Atualizar UI sem a fruta
         //Spawnar fruta no mapa
         backpackContent.RemoveAt(lastIndex);
+        if (UpdateUi != null)
+        {
+            UpdateUi();
+        }
     }
 
     public void ResetBackpack()
     {
         backpackContent.Clear();
         currentWeight = 0;
+        if (UpdateUi != null)
+        {
+            UpdateUi();
+        }
     }
 
     public List<Fruit> GetBackpackContent()

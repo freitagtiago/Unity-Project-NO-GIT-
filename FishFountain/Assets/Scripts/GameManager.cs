@@ -217,16 +217,13 @@ public class GameManager : MonoBehaviour
         int weight = backpack.GetWeight();
         if (weight <=10)
         {
-            Debug.Log(weight);
             mover.SetCurrentSpeed(1);
         }else if (weight <=20)
         {
-            Debug.Log(weight);
             mover.SetCurrentSpeed(0.75f);
         }
         else
         {
-            Debug.Log(weight);
             mover.SetCurrentSpeed(0.5f);
         }
     }

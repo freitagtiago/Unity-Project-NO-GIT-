@@ -20,17 +20,23 @@ public class GameManager : MonoBehaviour
 
     [Header("Config")]
     [SerializeField] float timeToCountdown = 60f;
+    
+    [Header("Fruit Spawner")]
     [SerializeField] int maxNumberOfFruitsOnStage = 5;
-    [SerializeField] float chanceOfSpawn = 30;
     [SerializeField] int[] spawnRangeOnX = new int[2];
     [SerializeField] int[] spawnRangeTime = new int[2];
     [SerializeField] int heightOfSpawn = 7;
     [SerializeField] bool canSpawn = true;
-
-
-    [Header("Data")]
     [SerializeField] List<Fruit> allSpawnableFruits;
     [SerializeField] FruitPickup pickupPrefab;
+
+    [Header("Enemy Spawner")]
+    [SerializeField] List<GameObject> spawnableEnemies;
+    int enemiesOnStage;
+    [SerializeField] int maxNumberOfActiveEnemies;
+    [SerializeField] int[] spawnEnemiesRangeTime = new int[2];
+    bool canSpawnEnemies = true;
+
 
     [Header("UI Elements")]
     [SerializeField] TMP_Text uiTimer;
@@ -77,6 +83,10 @@ public class GameManager : MonoBehaviour
             {
                 StartCoroutine(SpawnFruit());
             }
+            if (canSpawnEnemies)
+            {
+                StartCoroutine(SpawnEnemies());
+            }
             UpdateBreathSlider();
         }
         else
@@ -110,28 +120,6 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    private IEnumerator SpawnFruit()
-    {
-
-        yield return new WaitForSeconds(Random.Range(spawnRangeTime[0], spawnRangeTime[1]));
-        if (canSpawn)
-        {
-            canSpawn = false;
-            if (fruitsOnStage.Count < maxNumberOfFruitsOnStage)
-            {
-                int index = Random.Range(0, allSpawnableFruits.Count);
-                Fruit fruit = allSpawnableFruits[index];
-                if (Random.Range(0, 100) < fruit.GetSpawnChance())
-                {
-                    var spawnedFruit = Instantiate(pickupPrefab, new Vector3(Random.Range(spawnRangeOnX[0], spawnRangeOnX[1]), heightOfSpawn, 0), Quaternion.identity);
-                    spawnedFruit.SetupFruit(fruit);
-                    fruitsOnStage.Add(fruit);
-                }
-            }
-            yield return new WaitForSeconds(1f);
-            canSpawn = true;
-        }
-    }
     private void UpdateTimer(float value)
     {
         if(value < 0)
@@ -205,6 +193,64 @@ public class GameManager : MonoBehaviour
         currentCountdown = timeToCountdown;
     }
 
+    #region CoRoutines
+    private IEnumerator SpawnFruit()
+    {
+
+        yield return new WaitForSeconds(Random.Range(spawnRangeTime[0], spawnRangeTime[1]));
+        if (canSpawn)
+        {
+            canSpawn = false;
+            if (fruitsOnStage.Count < maxNumberOfFruitsOnStage)
+            {
+                int index = Random.Range(0, allSpawnableFruits.Count);
+                Fruit fruit = allSpawnableFruits[index];
+                if (Random.Range(0, 100) < fruit.GetSpawnChance())
+                {
+                    var spawnedFruit = Instantiate(pickupPrefab, new Vector3(Random.Range(spawnRangeOnX[0], spawnRangeOnX[1]), heightOfSpawn, 0), Quaternion.identity);
+                    spawnedFruit.SetupFruit(fruit);
+                    fruitsOnStage.Add(fruit);
+                }
+            }
+            yield return new WaitForSeconds(1f);
+            canSpawn = true;
+        }
+    }
+
+    private IEnumerator SpawnEnemies()
+    {
+        yield return new WaitForSeconds(Random.Range(spawnEnemiesRangeTime[0], spawnEnemiesRangeTime[1]));
+        if (canSpawnEnemies && spawnableEnemies.Count > 0)
+        {
+            canSpawnEnemies = false;
+            if (enemiesOnStage < maxNumberOfActiveEnemies)
+            {
+                int index = Random.Range(0, spawnableEnemies.Count); // random.range is maximally exclusive
+                IEnemy enemyToSpawn = spawnableEnemies[index].GetComponent<IEnemy>();
+                if(enemyToSpawn != null)
+                {
+                    if (Random.Range(0, 100) < enemyToSpawn.GetSpawnChance())
+                    {
+                        var spawnedEnemy = Instantiate(spawnableEnemies[index], new Vector3(Random.Range(spawnRangeOnX[0], spawnRangeOnX[1]), heightOfSpawn, 0), Quaternion.identity);
+                        enemiesOnStage++;
+                    }
+                }
+            }
+
+            yield return new WaitForSeconds(5f);
+            if (enemiesOnStage < maxNumberOfActiveEnemies)
+            {
+                canSpawnEnemies = true;
+            }
+            else
+            {
+                canSpawnEnemies = false;
+            }
+        }
+    }
+    #endregion
+
+
     #region PUBLIC METHODS
     public bool GetIsAlive()
     {
@@ -215,17 +261,7 @@ public class GameManager : MonoBehaviour
     {
         fruitsOnStage.Remove(fruit);
         int weight = backpack.GetWeight();
-        if (weight <=10)
-        {
-            mover.SetCurrentSpeed(1);
-        }else if (weight <=20)
-        {
-            mover.SetCurrentSpeed(0.75f);
-        }
-        else
-        {
-            mover.SetCurrentSpeed(0.5f);
-        }
+        mover.SetCurrentSpeed(weight);
     }
 
     public void InteractWithFountain()
@@ -240,6 +276,11 @@ public class GameManager : MonoBehaviour
         weightCollected += backpack.GetWeight();
         backpack.ResetBackpack();
         mover.SetCurrentSpeed(1);
+    }
+
+    public void ReduceAmountOfEnemies()
+    {
+        enemiesOnStage--;
     }
     #endregion
 }

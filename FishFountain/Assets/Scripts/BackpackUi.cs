@@ -23,6 +23,7 @@ public class BackpackUi : MonoBehaviour
 
         if (fruitCount < 1)
         {
+            countContent.gameObject.SetActive(false);
             while (index < 4)
             {
                 slots[index].gameObject.SetActive(false);

@@ -17,7 +17,7 @@ public class Fountain : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButton("Fire1") && inRange)
+        if ((Input.GetButton("Fire1") || Input.GetKeyDown(KeyCode.Space)) && inRange)
         {
             InteractWithPlayer();
         }

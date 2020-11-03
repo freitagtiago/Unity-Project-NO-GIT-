@@ -8,12 +8,14 @@ public class FishController : MonoBehaviour
     [SerializeField] float breathCountdown;
     [SerializeField] float breathingCapacity;
     [SerializeField] bool canCount = false;
-
+    Backpack backpack;
+    Mover mover;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
-
+        backpack = FindObjectOfType<Backpack>();
+        mover = FindObjectOfType<Mover>();
     }
 
     // Update is called once per frame
@@ -22,6 +24,11 @@ public class FishController : MonoBehaviour
         if (canCount)
         {
             BreathCountdown();
+            if (Input.GetMouseButtonDown(1))
+            {
+                backpack.RemoveFromBackpack();
+                mover.SetCurrentSpeed(backpack.GetWeight());
+            }
         }
     }
 
@@ -56,5 +63,10 @@ public class FishController : MonoBehaviour
     public void RestoreBreath()
     {
         breathCountdown = breathingCapacity;
+    }
+
+    public void ReduceBreath(float value)
+    {
+        breathCountdown -= value;
     }
 }

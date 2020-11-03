@@ -11,7 +11,6 @@ public class Mover : MonoBehaviour
     [SerializeField] float jumpForce = 300f;
 
     [Header("Control Variables")]
-    [SerializeField] bool canJump = true;
     [SerializeField] bool isGrounded = true;
     [SerializeField] bool canMove = true;
 
@@ -77,16 +76,16 @@ public class Mover : MonoBehaviour
         }
     }
 
-    private void Jump()
-    {
-
-    }
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+        }
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            rig.AddForce(Vector2.up * jumpForce);
+            isGrounded = false;
         }
     }
 
@@ -100,16 +99,20 @@ public class Mover : MonoBehaviour
         canMove = value;
     }
 
-    public void SetCurrentSpeed(float value)
+    public void SetCurrentSpeed(int weight)
     {
-        if(value == 1)
+        if (weight <= 10)
         {
             currentSpeed = speed;
-        } else        
-        {
-            currentSpeed *= value;
         }
-
+        else if (weight <= 20)
+        {
+            currentSpeed *= 0.75f;
+        }
+        else
+        {
+            currentSpeed *= 0.5f;
+        }
     }
 
     #endregion
